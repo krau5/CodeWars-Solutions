@@ -1,4 +1,7 @@
+![alt rank](https://www.codewars.com/users/Arelkench/badges/large?theme=light) <br />
+
 ![alt rank](https://www.codewars.com/users/krau5/badges/large?theme=light)
+
 ###### Codewarriors are strongly encouraged not to look at my solutions to Kata until you have completed it yourselves or at least took the time to think about your own approaches
 
 ###### Codewarriors should not submit my solutions as their own
