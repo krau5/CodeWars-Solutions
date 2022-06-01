@@ -1,0 +1,1 @@
+mystery = -> { sanity: 'Hello'}
